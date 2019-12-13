@@ -796,45 +796,467 @@ Phần chức năng tại \textit{back-end site} có hai \textit{work package} �
 \subsubsection{Xây dựng bảo mật}
 \paragraph{Xây dựng cơ sở dữ liệu}
 \paragraph{Xây dựng phân quyền trên cơ sở dữ liệu}
-\subparagraph{Xây dựng các quyền trên cơ sở dữ liệu}
-\subparagraph{Xây dựng nhóm quyền trên cơ sở dữ liệu}
-\paragraph{Xây dựng chức năng sao lưu và phục hồi}
-\subsection{Kiểm thử và khắc phục}
-\subsubsection{Kiểm thử và khắc phục Front-end site}
+Thiết kế các quyền, nhóm quyền cho nhóm người dùng được truy cập vào những tài nguyên trên hệ thống.
+\subparagraph{Xây dựng các quyền trên cơ sở dữ liệu} Miêu tả chi tiết tại bảng \ref{table:xd_cacquyen}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 36: Xây dựng các quyền trên cơ sở dữ liệu}}\\
+			\hline
+			\multirow{1}{*}{WP36. Objective} & $\bullet$ Phân quyền cho phép truy cập vào hệ thống\\
+			\hline
+			\multirow{1}{*}{WP36. Description} & $\bullet$ Thiết kế các quyền cho người dùng, người quản trị được phép truy cập vào hệ thống. \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 36:Xây dựng các quyền trên cơ sở dữ liệu}
+		\label{table:xd_cacquyen}
+	\end{center}
+\end{table}
+\subparagraph{Xây dựng nhóm quyền trên cơ sở dữ liệu} Miêu tả chi tiết tại bảng \ref{table:xd_nhomquyen}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 37: Xây dựng nhóm quyền trên cơ sở dữ liệu}}\\
+			\hline
+			\multirow{1}{*}{WP37. Objective} & $\bullet$ Thiết kế các nhóm quyền trong cơ sở dữ liệu\\
+			\hline
+			\multirow{1}{*}{WP37. Description} & $\bullet$ Thiết kế các nhóm quyền cho các nhóm người dùng \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 37:Xây dựng nhóm quyền trên cơ sở dữ liệu}
+		\label{table:xd_nhomquyen}
+	\end{center}
+\end{table}
+\paragraph{Xây dựng chức năng sao lưu và phục hồi} Sao lưu và phục hồi dữ liệu khi có sự cố xảy ra hoặc theo định kỳ.
+\subsection{Kiểm thử và khắc phục} Kiểm thử và khắc phục lỗi phát sinh trong quá trình xây dựng website.
+\subsubsection{Kiểm thử và khắc phục Front-end site} Kiểm thử và khắc phục các lỗi về giao diện của website.
 \paragraph{Kiểm thử và khắc phục giao diện}
-\subparagraph{Kiểm thử, khắc phục giao diện trang chủ}
-\subparagraph{Kiểm thử, khắc phục giao diện trang xem phim}
-\subparagraph{Kiểm thử, khắc phục giao diện trang tìm kiếm}
-\subparagraph{Kiểm thử, khắc phục giao diện trang chi tiết phim}
+\subparagraph{Kiểm thử, khắc phục giao diện trang chủ} Miêu tả chi tiết tại bảng \ref{table:kt_kp_giaodien_trangchu}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 38: Kiểm thử, khắc phục giao diện trang chủ}}\\
+			\hline
+			\multirow{1}{*}{WP38. Objective} & $\bullet$ Khắc phục lỗi giao diện trang chủ\\
+			\hline
+			\multirow{1}{*}{WP38. Description} & $\bullet$ Khắc phục lỗi giao diện trang chủ \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 38:Kiểm thử, khắc phục giao diện trang chủ}
+		\label{table:kt_kp_giaodien_trangchu}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục giao diện trang xem phim} Miêu tả chi tiết tại bảng \ref{table:kt_kp_giaodien_xemphim}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 39: Kiểm thử, khắc phục giao diện trang xem phim}}\\
+			\hline
+			\multirow{1}{*}{WP39. Objective} & $\bullet$ Khắc phục lỗi giao diện trang xem phim\\
+			\hline
+			\multirow{1}{*}{WP39. Description} & $\bullet$ Khắc phục lỗi giao diện xem phim \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 39:Kiểm thử, khắc phục giao diện trang xem phim}
+		\label{table:kt_kp_giaodien_xemphim}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục giao diện trang tìm kiếm} Miêu tả chi tiết tại bảng \ref{table:kt_kp_giaodien_timkiem}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 40: Kiểm thử, khắc phục giao diện trang tìm kiếm}}\\
+			\hline
+			\multirow{1}{*}{WP40. Objective} & $\bullet$ Khắc phục lỗi giao diện trang tìm kiếm\\
+			\hline
+			\multirow{1}{*}{WP40. Description} & $\bullet$ Khắc phục lỗi giao diện trang tìm kiếm \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 40:Kiểm thử, khắc phục giao diện trang tìm kiếm}
+		\label{table:kt_kp_giaodien_timkiem}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục giao diện trang chi tiết phim} Miêu tả chi tiết tại bảng \ref{table:kt_kp_giaodien_chitietxemphim}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 41: Kiểm thử, khắc phục giao diện trang chi tiết phim}}\\
+			\hline
+			\multirow{1}{*}{WP41. Objective} & $\bullet$ Khắc phục lỗi giao diện trang chi tiết phim\\
+			\hline
+			\multirow{1}{*}{WP41. Description} & $\bullet$ Khắc phục lỗi giao diện trang chi tiết phim \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 41:Kiểm thử, khắc phục giao diện trang chi tiết phim}
+		\label{table:kt_kp_giaodien_chitietxemphim}
+	\end{center}
+\end{table}
 \subparagraph{Kiểm thử, khắc phục tương thích của giao diện}
-\paragraph{Kiểm thử và khắc phục chức năng}
-\subparagraph{Kiểm thử, khắc phục chức năng xem phim}
-\subparagraph{Kiểm thử, khắc phục chức năng đăng nhập}
-\subparagraph{Kiểm thử, khắc phục chức năng bình luận}
-\subparagraph{Kiểm thử, khắc phục chức năng tìm kiếm}
-\subparagraph{Kiểm thử, khắc phục chức năng theo dõi thói quen của người dùng}
+Miêu tả chi tiết tại bảng \ref{table:kt_kp_tuongthich_giaodien}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 42: Kiểm thử, khắc phục tương thích của giao diện}}\\
+			\hline
+			\multirow{1}{*}{WP42. Objective} & $\bullet$ Khắc phục tính tương thích của giao diện\\
+			\hline
+			\multirow{1}{*}{WP42. Description} & $\bullet$ Khắc phục tính tương thích giao diện trên đa thiết bị \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 42:Kiểm thử, khắc phục tương thích của giao diện}
+		\label{table:kt_kp_tuongthich_giaodien}
+	\end{center}
+\end{table}
+\paragraph{Kiểm thử và khắc phục chức năng} Kiểm thử và khắc phục các chức năng của website.
+\subparagraph{Kiểm thử, khắc phục chức năng xem phim} Miêu tả chi tiết tại bảng \ref{table:kt_kp_chucnang_xemphim}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 43: Kiểm thử, khắc phục chức năng xem phim}}\\
+			\hline
+			\multirow{1}{*}{WP43. Objective} & $\bullet$ Khắc phục chức năng xem phim\\
+			\hline
+			\multirow{1}{*}{WP43. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trên chức năng xem phim \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 43:Kiểm thử, khắc phục chức năng xem phim}
+		\label{table:kt_kp_chucnang_xemphim}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục chức năng đăng nhập}Miêu tả chi tiết tại bảng \ref{table:kt_kp_chucnang_dangnhap}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 44: Kiểm thử, khắc phục chức năng đăng nhập}}\\
+			\hline
+			\multirow{1}{*}{WP44. Objective} & $\bullet$ Khắc phục chức năng đăng nhập\\
+			\hline
+			\multirow{1}{*}{WP44. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trên chức năng đăng nhập \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 44:Kiểm thử, khắc phục chức năng đăng nhập}
+		\label{table:kt_kp_chucnang_dangnhap}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục chức năng bình luận} Miêu tả chi tiết tại bảng \ref{table:kt_kp_chucnang_binhluan}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 45: Kiểm thử, khắc phục chức năng bình luận}}\\
+			\hline
+			\multirow{1}{*}{WP45. Objective} & $\bullet$ Khắc phục chức năng bình luận\\
+			\hline
+			\multirow{1}{*}{WP45. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trên chức năng bình luận \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 45:Kiểm thử, khắc phục chức năng bình luận}
+		\label{table:kt_kp_chucnang_binhluan}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục chức năng tìm kiếm} Miêu tả chi tiết tại bảng \ref{table:kt_kp_chucnang_timkiem}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 46: Kiểm thử, khắc phục chức năng tìm kiếm}}\\
+			\hline
+			\multirow{1}{*}{WP46. Objective} & $\bullet$ Khắc phục lỗi chức năng tìm kiếm\\
+			\hline
+			\multirow{1}{*}{WP46. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trên chức năng tìm kiếm \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 46:Kiểm thử, khắc phục chức năng tìm kiếm}
+		\label{table:kt_kp_chucnang_timkiem}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục chức năng theo dõi thói quen của người dùng} Miêu tả chi tiết tại bảng \ref{table:kt_kp_chucnang_thoiquen_nguoidung}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 47: Kiểm thử, khắc phục chức năng theo dõi thói quen của người dùng}}\\
+			\hline
+			\multirow{1}{*}{WP47. Objective} & $\bullet$ Khắc phục lỗi trên chức năng theo dõi thói quen người dùng\\
+			\hline
+			\multirow{1}{*}{WP47. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trên chức năng theo dõi thói quen người dùng \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 47:Kiểm thử, khắc phục chức năng theo dõi thói quen của người dùng}
+		\label{table:kt_kp_chucnang_thoiquen_nguoidung}
+	\end{center}
+\end{table}
 \subsubsection{Kiểm thử và khắc phục Back-end site}
 \paragraph{Kiểm thử và khắc phục giao diện}
-\subparagraph{Kiểm thử, khắc phục giao diện trang quản trị phim}
-\subparagraph{Kiểm thử, khắc phục giao diện trang quản trị quản lý}
-\subparagraph{Kiểm thử, khắc phục tương thích của giao diện}
+\subparagraph{Kiểm thử, khắc phục giao diện trang quản trị phim} Miêu tả chi tiết tại bảng \ref{table:kt_kp_giaodien_quantriphim}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 48: Kiểm thử, khắc phục giao diện trang quản trị phim}}\\
+			\hline
+			\multirow{1}{*}{WP48. Objective} & $\bullet$ Khắc phục lỗi trên giao diện trang quản trị phim\\
+			\hline
+			\multirow{1}{*}{WP48. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trên giao diện trang quản trị phim \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 48:Kiểm thử, khắc phục giao diện trang quản trị phim}
+		\label{table:kt_kp_giaodien_quantriphim}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục giao diện trang quản trị quản lý} Miêu tả chi tiết tại bảng \ref{table:kt_kp_giaodien_quantriquanly}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 49: Kiểm thử, khắc phục giao diện trang quản trị quản lý}}\\
+			\hline
+			\multirow{1}{*}{WP49. Objective} & $\bullet$ Khắc phục lỗi trên giao diện trang quản trị quản lý\\
+			\hline
+			\multirow{1}{*}{WP49. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trên giao diện trang quản trị quản lý \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 49:Kiểm thử, khắc phục giao diện trang quản trị quản lý}
+		\label{table:kt_kp_giaodien_quantriquanly}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục tương thích của giao diện} Miêu tả chi tiết tại bảng \ref{table:kt_kp_tuongthichcuagiaodien}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 50: Kiểm thử, khắc phục tương thích của giao diện}}\\
+			\hline
+			\multirow{1}{*}{WP50. Objective} & $\bullet$ Khắc phục lỗi tương thích của giao diện\\
+			\hline
+			\multirow{1}{*}{WP50. Description} & $\bullet$ Kiểm tra và khắc phục lỗi tương thích của giao diện \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 50:Kiểm thử, khắc phục tương thích của giao diện}
+		\label{table:kt_kp_tuongthichcuagiaodien}
+	\end{center}
+\end{table}
 \paragraph{Kiểm thử và khắc phục chức năng}
-\subparagraph{Kiểm thử, khắc phục chức năng quản trị phim}
-\subparagraph{Kiểm thử, khắc phục chức năng quản trị quản lý}
-\subsubsection{Kiểm thử và khắc phục bảo mật}
-\paragraph{Kiểm thử và khắc phục cơ sở dữ liệu}
-\paragraph{Kiểm thử và khắc phục phân quyền}
-\paragraph{Kiểm thử và khắc phục chức năng sao lưu và phục hồi}
+\subparagraph{Kiểm thử, khắc phục chức năng quản trị phim} Miêu tả chi tiết tại bảng \ref{table:kt_kp_chucnang_quantriphim}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 51: Kiểm thử, khắc phục chức năng quản trị phim}}\\
+			\hline
+			\multirow{1}{*}{WP51. Objective} & $\bullet$ Khắc phục lỗi trên chức năng quản trị phim\\
+			\hline
+			\multirow{1}{*}{WP51. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trên giao diện trang quản trị phim \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 51:Kiểm thử, khắc phục chức năng quản trị phim}
+		\label{table:kt_kp_chucnang_quantriphim}
+	\end{center}
+\end{table}
+\subparagraph{Kiểm thử, khắc phục chức năng quản trị quản lý} Miêu tả chi tiết tại bảng \ref{table:kt_kp_chucnang_quantriquanly}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 52: Kiểm thử, khắc phục chức năng quản trị quản lý}}\\
+			\hline
+			\multirow{1}{*}{WP52. Objective} & $\bullet$ Khắc phục lỗi trên giao diện trang quản trị quản lý\\
+			\hline
+			\multirow{1}{*}{WP52. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trên giao diện trang quản trị quản lý \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 52:Kiểm thử, khắc phục chức năng quản trị quản lý}
+		\label{table:kt_kp_chucnang_quantriquanly}
+	\end{center}
+\end{table}
+\subsubsection{Kiểm thử và khắc phục bảo mật} Kiểm thử và khắc phục các lỗi về bảo mật.
+\paragraph{Kiểm thử và khắc phục cơ sở dữ liệu} Miêu tả chi tiết tại bảng \ref{table:kt_kp_csdl}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 53: Kiểm thử và khắc phục cơ sở dữ liệu}}\\
+			\hline
+			\multirow{1}{*}{WP53. Objective} & $\bullet$ Khắc phục lỗi cơ sở dữ liệu\\
+			\hline
+			\multirow{1}{*}{WP53. Description} & $\bullet$ Kiểm tra và khắc phục lỗi trong quá trình xây dựng cơ sở dữ liệu \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 53:Kiểm thử và khắc phục cơ sở dữ liệu}
+		\label{table:kt_kp_csdl}
+	\end{center}
+\end{table}
+\paragraph{Kiểm thử và khắc phục phân quyền} Miêu tả chi tiết tại bảng \ref{table:kt_kp_phanquyen}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 54: Kiểm thử và khắc phục phân quyền}}\\
+			\hline
+			\multirow{1}{*}{WP54. Objective} & $\bullet$ Khắc phục lỗi phân quyền\\
+			\hline
+			\multirow{1}{*}{WP54. Description} & $\bullet$ Kiểm tra và khắc phục lỗi phân quyền \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 54:Kiểm thử và khắc phục phân quyền}
+		\label{table:kt_kp_phanquyen}
+	\end{center}
+\end{table}
+\paragraph{Kiểm thử và khắc phục chức năng sao lưu và phục hồi} Miêu tả chi tiết tại bảng \ref{table:kt_kp_saoluuphuchoi}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 55: Kiểm thử và khắc phục chức năng sao lưu và phục hồi}}\\
+			\hline
+			\multirow{1}{*}{WP55. Objective} & $\bullet$ Khắc phục lỗi sao lưu và phục hồi\\
+			\hline
+			\multirow{1}{*}{WP55. Description} & $\bullet$ Kiểm tra và khắc phục lỗi sao lưu và phục hồi\\
+			\hline
+		\end{tabular}
+		\caption{Work Package 55:Kiểm thử và khắc phục chức năng sao lưu và phục hồi}
+		\label{table:kt_kp_saoluuphuchoi}
+	\end{center}
+\end{table}
 \subsection{Triển khai}
-\subsubsection{Chọn thời gian triển khai website}
-\subsubsection{Triển khai website trên môi trường doanh nghiệp}
-\subsubsection{Kiểm tra, khắc phục lỗi website trên môi trường doanh nghiệp}
-\section{Dịch vụ hosting}
-\subsection{Lấy yêu cầu khách hàng}
-\subsection{Chọn cấu hình hosting}
-\subsection{Cấu hình môi trường hosting}
-\subsection{Kiểm thử và khắc phục cấu hình hosting}
-\subsection{Bàn giao}
+\subsubsection{Cấu hình môi trường triển khai} Miêu tả chi tiết tại bảng \ref{table:cauhinh_moitruong_trienkhai}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 56: Cấu hình môi trường triển khai}}\\
+			\hline
+			\multirow{1}{*}{WP56. Objective} & $\bullet$ Cấu hình môi trường triển khai\\
+			\hline
+			\multirow{1}{*}{WP56. Description} & $\bullet$ Cấu hình môi trường cần thiết cho việc triển khai ứng dụng\\
+			\hline
+		\end{tabular}
+		\caption{Work Package 56:Cấu hình môi trường triển khai}
+		\label{table:cauhinh_moitruong_trienkhai}
+	\end{center}
+\end{table}
+\subsubsection{Triển khai website trên môi trường doanh nghiệp} Miêu tả chi tiết tại bảng \ref{table:trienkhai_moitruong_doanhnghiep}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 57: Triển khai website trên môi trường doanh nghiệp}}\\
+			\hline
+			\multirow{1}{*}{WP57. Objective} & $\bullet$ Triển khai trong môi trường doanh nghiệp\\
+			\hline
+			\multirow{1}{*}{WP57. Description} & $\bullet$ Tiến hành triển khai trong môi trường doanh nghiệp theo cấu hình ở bước trên\\
+			\hline
+		\end{tabular}
+		\caption{Work Package 57:Triển khai website trên môi trường doanh nghiệp}
+		\label{table:trienkhai_moitruong_doanhnghiep}
+	\end{center}
+\end{table}
+\subsubsection{Kiểm tra, khắc phục lỗi website trên môi trường doanh nghiệp} Miêu tả chi tiết tại bảng \ref{table:kt_kp_loi_moitruongdoanhnghiep}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 58: Kiểm tra, khắc phục lỗi website trên môi trường doanh nghiệp}}\\
+			\hline
+			\multirow{1}{*}{WP58. Objective} & $\bullet$ Khắc phục lỗi trong quá trình triển khai trên môi trường doanh nghiệp\\
+			\hline
+			\multirow{1}{*}{WP58. Description} & $\bullet$ Kiểm tra và khắc phục lỗi phát sinh trong quá trình triển khai trên môi trường doanh nghiệp\\
+			\hline
+		\end{tabular}
+		\caption{Work Package 58:Kiểm tra, khắc phục lỗi website trên môi trường doanh nghiệp}
+		\label{table:kt_kp_loi_moitruongdoanhnghiep}
+	\end{center}
+\end{table}
+\section{Dịch vụ hosting} Là dịch vụ lưu trữ và chia sẻ dữ liệu trực tuyến, là không gian trên máy chủ có cài đặt các dịch vụ Internet
+\subsection{Lấy yêu cầu khách hàng} Miêu tả chi tiết tại bảng \ref{table:layyeucaukhachhang}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 59: Lấy yêu cầu khách hàng}}\\
+			\hline
+			\multirow{1}{*}{WP59. Objective} & $\bullet$ Lấy yêu cầu khách hàng về dịch vụ hosting\\
+			\hline
+			\multirow{1}{*}{WP59. Description} & $\bullet$ Lấy yêu cầu khách hành về dịch vụ hosting: tốc độ, dung lượng, băng thông, khả năng chịu tải\\
+			\hline
+		\end{tabular}
+		\caption{Work Package 59:Lấy yêu cầu khách hàng}
+		\label{table:layyeucaukhachhang}
+	\end{center}
+\end{table}
+\subsection{Chọn cấu hình hosting} Miêu tả chi tiết tại bảng \ref{table:choncauhinhhosting}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 60: Chọn cấu hình hosting}}\\
+			\hline
+			\multirow{1}{*}{WP60. Objective} & $\bullet$ Chọn được cấu hình hosting\\
+			\hline
+			\multirow{1}{*}{WP60. Description} & $\bullet$ Dựa theo yêu cầu khách hàng, chọn cấu hình hosting theo yêu cầu\\
+			\hline
+		\end{tabular}
+		\caption{Work Package 60:Chọn cấu hình hosting}
+		\label{table:choncauhinhhosting}
+	\end{center}
+\end{table}
+\subsection{Cấu hình môi trường hosting} Miêu tả chi tiết tại bảng \ref{table:cauhinhmoitruonghosting}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 61: Cấu hình môi trường hosting}}\\
+			\hline
+			\multirow{1}{*}{WP61. Objective} & $\bullet$ Cấu hình môi trường hosting\\
+			\hline
+			\multirow{1}{*}{WP61. Description} & $\bullet$ Tiến hành cấu hình môi trường hosting \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 61:Cấu hình môi trường hosting}
+		\label{table:cauhinhmoitruonghosting}
+	\end{center}
+\end{table}
+\subsection{Kiểm thử và khắc phục cấu hình hosting} Miêu tả chi tiết tại bảng \ref{table:kt_kp_cauhinhhostting}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 62: Kiểm thử và khắc phục cấu hình hosting}}\\
+			\hline
+			\multirow{1}{*}{WP62. Objective} & $\bullet$ Khắc phục lỗi cấu hình hosting\\
+			\hline
+			\multirow{1}{*}{WP62. Description} & $\bullet$ Kiểm tra và khắc phục lỗi liên quan đến việc cấu hình hosting \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 62:Kiểm thử và khắc phục cấu hình hosting}
+		\label{table:kt_kp_cauhinhhostting}
+	\end{center}
+\end{table}
+\subsection{Bàn giao} Miêu tả chi tiết tại bảng \ref{table:bangiao}
+\begin{table}[h!]
+	\begin{center}
+		\begin{tabular}{|p{4cm}|p{10cm}|}
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{363636}{\color[HTML]{FFFFFF}Work package 63: Bàn giao}}\\
+			\hline
+			\multirow{1}{*}{WP63. Objective} & $\bullet$ Bàn giao sản phẩm cho khách hàng\\
+			\hline
+			\multirow{1}{*}{WP63. Description} & $\bullet$ Bàn giao sản phẩm cho khách hàng \\
+			\hline
+		\end{tabular}
+		\caption{Work Package 63:Bàn giao}
+		\label{table:bangiao}
+	\end{center}
+\end{table}
 \section{Responsibility Matrix}
 \chapter{Lập lịch}
 \section{Lập lịch công việc}
