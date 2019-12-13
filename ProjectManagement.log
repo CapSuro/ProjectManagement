@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.5)  13 DEC 2019 14:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.5)  13 DEC 2019 17:59
 entering extended mode
 **./ProjectManagement.tex
 (ProjectManagement.tex
@@ -1271,47 +1271,68 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 2318) has occurred while \output is active []
 
  [28]
-[29] [30] [31] [32] [33] [34
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29] [30] [31]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 2662) has occurred while \output is active []
+
+ [32]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 5832) has occurred while \output is active []
+
+ [33]
+[34] [35] [36] [37] [38]
 Ch\uhorn \ohorn ng 4.
-[35] [36
+[39
+
+
+] [40
 
 
 ]
 Ch\uhorn \ohorn ng 5.
-[37] [38
+[41] [42
 
 
 ] (ProjectManagement.lot
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39])
+ [43]
+[44])
 \tf@lot=\write5
 \openout5 = `ProjectManagement.lot'.
 
+ [45] [46
 
-[40] (ProjectManagement.lof)
+
+] (ProjectManagement.lof)
 \tf@lof=\write6
 \openout6 = `ProjectManagement.lof'.
 
- [41
-
-
-] (ProjectManagement.bbl [42
+ [47] (ProjectManagement.bbl [48
 
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [43] (ProjectManagement.aux) ) 
+) [49] (ProjectManagement.aux) ) 
 Here is how much of TeX's memory you used:
- 27744 strings out of 492452
- 537518 string characters out of 3121465
- 683680 words of memory out of 3000000
- 31751 multiletter control sequences out of 15000+200000
+ 27759 strings out of 492452
+ 537965 string characters out of 3121465
+ 683860 words of memory out of 3000000
+ 31766 multiletter control sequences out of 15000+200000
  571444 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,13n,67p,827b,511s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1323,9 +1344,9 @@ iKTeX 2.9/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/PC/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmbi8v.pfb><C:/Users/PC/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Users/PC/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on ProjectManagement.pdf (43 pages, 160751 bytes).
+Output written on ProjectManagement.pdf (49 pages, 173089 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
+ 190 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
