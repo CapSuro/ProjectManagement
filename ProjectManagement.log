@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.5)  12 DEC 2019 14:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.5)  13 DEC 2019 11:02
 entering extended mode
 **./ProjectManagement.tex
 (ProjectManagement.tex
@@ -1044,82 +1044,202 @@ LaTeX Font Info:    Font shape `T5/ptm/bx/it' in size <14> not available
 LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <34.83209> not available
 (Font)              Font shape `T5/ptm/b/n' tried instead on input line 127.
  (ProjectManagement.toc
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 5.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14> on input line 5.
+(Font)              <14> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.79996> on input line 5.
+(Font)              <9.79996> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
-)
+(Font)              <7> on input line 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Overfull \hbox (1.33792pt too wide) in paragraph at lines 32--32
+ [][] []\T5/ptm/m/n/14 Ph¥n t½ch, thi¸t k¸ nhâm quy·n 
+ []
+
+[5]
+Overfull \hbox (0.84795pt too wide) in paragraph at lines 50--50
+ [][] []\T5/ptm/m/n/14 X¥y düng giao di»n trang qu£n 
+ []
+
+
+Overfull \hbox (0.84795pt too wide) in paragraph at lines 51--51
+ [][] []\T5/ptm/m/n/14 X¥y düng giao di»n trang qu£n 
+ []
+
+
+Overfull \hbox (4.89394pt too wide) in paragraph at lines 52--52
+ [][] []\T5/ptm/m/n/14 X¥y düng t÷ìng th½ch giao di»n 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Overfull \hbox (0.30196pt too wide) in paragraph at lines 65--65
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc giao di»n 
+ []
+
+
+Overfull \hbox (0.30196pt too wide) in paragraph at lines 66--66
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc giao di»n 
+ []
+
+
+Overfull \hbox (0.30196pt too wide) in paragraph at lines 67--67
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc giao di»n 
+ []
+
+
+Overfull \hbox (0.30196pt too wide) in paragraph at lines 68--68
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc giao di»n 
+ []
+
+
+Overfull \hbox (11.94994pt too wide) in paragraph at lines 69--69
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc t÷ìng th½ch 
+ []
+
+
+Overfull \hbox (5.70595pt too wide) in paragraph at lines 71--71
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc chùc n«ng 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Overfull \hbox (5.70595pt too wide) in paragraph at lines 72--72
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc chùc n«ng 
+ []
+
+
+Overfull \hbox (5.70595pt too wide) in paragraph at lines 73--73
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc chùc n«ng 
+ []
+
+
+Overfull \hbox (5.70595pt too wide) in paragraph at lines 74--74
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc chùc n«ng 
+ []
+
+
+Overfull \hbox (5.70595pt too wide) in paragraph at lines 75--75
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc chùc n«ng 
+ []
+
+
+Overfull \hbox (0.30196pt too wide) in paragraph at lines 78--78
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc giao di»n 
+ []
+
+
+Overfull \hbox (0.30196pt too wide) in paragraph at lines 79--79
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc giao di»n 
+ []
+
+
+Overfull \hbox (11.94994pt too wide) in paragraph at lines 80--80
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc t÷ìng th½ch 
+ []
+
+
+Overfull \hbox (5.70595pt too wide) in paragraph at lines 82--82
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc chùc n«ng 
+ []
+
+
+Overfull \hbox (5.70595pt too wide) in paragraph at lines 83--83
+ [][] []\T5/ptm/m/n/14 Kiºm thû, kh­c phöc chùc n«ng 
+ []
+
+
+Underfull \vbox (badness 1057) has occurred while \output is active []
+
+ [8])
 \tf@toc=\write4
 \openout4 = `ProjectManagement.toc'.
 
 
-[3] [4
+[9] [10
 
 
-] [5] [6
+] [11] [12
 
 
 ]
 Ch\uhorn \ohorn ng 1.
 LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <29.03607> not available
 (Font)              Font shape `T5/ptm/b/n' tried instead on input line 129.
-[7] [8
-
-
-]
-Ch\uhorn \ohorn ng 2.
-[9] [10
-
-
-]
-Ch\uhorn \ohorn ng 3.
-[11] [12
-
-
-]
-Ch\uhorn \ohorn ng 4.
-LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <16.79996> not available
-(Font)              Font shape `T5/ptm/b/n' tried instead on input line 133.
 [13] [14
 
 
 ]
-Ch\uhorn \ohorn ng 5.
+Ch\uhorn \ohorn ng 2.
 [15] [16
+
+
+]
+Ch\uhorn \ohorn ng 3.
+LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <20.16003> not available
+(Font)              Font shape `T5/ptm/b/n' tried instead on input line 132.
+LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <16.79996> not available
+(Font)              Font shape `T5/ptm/b/n' tried instead on input line 133.
+
+Underfull \vbox (badness 2012) has occurred while \output is active []
+
+ [17]
+[18] [19] [20] [21] [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+[24]
+Ch\uhorn \ohorn ng 4.
+[25
+
+
+] [26
+
+
+]
+Ch\uhorn \ohorn ng 5.
+[27] [28
 
 
 ] (ProjectManagement.lof)
 \tf@lof=\write5
 \openout5 = `ProjectManagement.lof'.
 
- [17] (ProjectManagement.bbl [18
+ [29] (ProjectManagement.bbl [30
 
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [19] (ProjectManagement.aux) ) 
+) [31] (ProjectManagement.aux) ) 
 Here is how much of TeX's memory you used:
- 27555 strings out of 492452
- 534296 string characters out of 3121465
- 671957 words of memory out of 3000000
- 31576 multiletter control sequences out of 15000+200000
- 564654 words of font info for 42 fonts, out of 3000000 for 9000
+ 27559 strings out of 492452
+ 534367 string characters out of 3121465
+ 673957 words of memory out of 3000000
+ 31580 multiletter control sequences out of 15000+200000
+ 571444 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,67p,827b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,12n,67p,827b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/
 fonts/enc/dvips/vntex/t5.enc}<C:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/vntex/urwvn/utmbi8v.pfb><C:/Users/PC/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/vntex/urwvn/utmr8v.pfb>
-Output written on ProjectManagement.pdf (19 pages, 95132 bytes).
+Output written on ProjectManagement.pdf (31 pages, 116671 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
