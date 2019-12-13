@@ -129,7 +129,45 @@
 \tableofcontents
 \chapter*{Lời mở đầu}
 \chapter{Giới thiệu khách hàng}
+Phía khách hàng là người cũng có hiểu biết về kiến thức công nghệ thông tin, đưa ra các yêu cầu về thiết kế, chức năng, nền tảng áp dụng cho dự án "Xây dựng website trực tuyến". Chi tiết yêu cầu được trình bày bên dưới.
 \chapter{Yêu cầu khách hàng}
+\section{Sơ đồ website}
+Sơ đồ website cho biết website bao gồm những site nào, phân cấp ra sao.\\ \\
+\includegraphics[scale=0.6]{sodo_website.PNG}
+\section{Nội dung}
+Nội dung mà phía khách hàng hướng tới là dữ liệu về phim. Trong đó phim bao gồm các thuộc tính sau: tên phim, năm sản xuất, thể loại, tóm tắt, trạng thái, quốc gia, thời lượng, ngôn ngữ, nhà sản xuất, đạo diễn, diễn viên, đánh giá.
+\section{Thiết kế}
+Khách hàng đưa ra các yêu cầu thiết kế sau:
+\begin{itemize}
+	\item Màu sắc: màu đen là màu chủ đạo
+	\item Font: Open sans, sans-serif
+	\item Thương hiệu: Phim hay
+	\item Hỗ trợ hiển thị đa thiết bị (Responsive)
+	\item Một số website có thể tham khảo: phimmoi.net, dongphim.net
+\end{itemize}
+\section{Chức năng}
+- Số server hỗ trợ cho xem phim: 2 server\\
+- Người dùng đăng nhập qua facebook để bình luận cho phim \\
+- Tích hợp phân tích, theo dõi thói quen người dùng để đề xuất phim phù hợp \\
+-  Tìm kiếm phim qua các thông tin: tên phim, đạo diễn, diễn viên, thể loại, năm sản xuất
+\section{Nền tảng}
+- Nền tảng được sử dụng cho dự án:
+\begin{itemize}
+	\item Client: single page(giao diện) reactjs hoặc vuejs , html, css, jquery
+	\item Server: nodejs hoặc golang(server)
+	\item Database: MongoDB, SQL server
+\end{itemize}
+\section{Hosting and Domain}
+- Hosting được đặt tại Việt Nam\\
+- Domain: phimhay.net\\
+- Số lượng user có thể truy cập tối đa cùng lúc: 5000\\
+\section{Yêu cầu bổ sung}
+- Hướng dẫn chi tiết cách sử dụng sản phẩm cho người dùng\\
+- Hệ thống phải có thời gian đáp ứng nhanh, thời gian phục hồi hệ thống khi có sự cố, thời gian phục vụ của hệ thống\\
+- Phải có tính bảo mật và an toàn cao, chỉ những người có trách nhiệm trong nghiệp vụ mới được truy cập và sửa chữa\\
+- Giải đáp mọi thắc mắc của khách hàng trong thời gian nhanh nhất (trong vòng 24 tiếng)\\
+- Lắp đặt và bảo trì miễn phí trong 1 năm kể từ ngày hệ thống đi vào hoạt động.( Không yêu cầu thêm tính năng)\\
+- Sao lưu và phục hồi dữ liệu: chức năng hỗ trợ thêm nếu tổ chức không có hệ thống máy chủ và nhân lực phục vụ cho việc sao lưu dữ liệu định kỳ
 \chapter{Work Breakdown Structure (WBS)}
 Dự án hiện tại được chia ra hai \textit{deliverable} đó là xây dựng \textit{website} xem phim trực tuyến và dịch vụ \textit{hosting}.
 \section{Xây dựng website}

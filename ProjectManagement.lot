@@ -1,6 +1,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+<<<<<<< HEAD
 \contentsline {table}{\numberline {3.1}{\ignorespaces Work Package 1: Lấy yêu cầu khách hàng\relax }}{18}% 
 \contentsline {table}{\numberline {3.2}{\ignorespaces Work Package 2: Phân tích, thiết kế giao diện trang chủ\relax }}{19}% 
 \contentsline {table}{\numberline {3.3}{\ignorespaces Work Package 3: Phân tích, thiết kế giao diện trang xem phim\relax }}{20}% 
@@ -36,5 +37,27 @@
 \contentsline {table}{\numberline {3.33}{\ignorespaces Work Package 33:Xây dựng giao diện tương thích với smartphone\relax }}{34}% 
 \contentsline {table}{\numberline {3.34}{\ignorespaces Work Package 34:Xây dựng chức năng quản trị phim\relax }}{35}% 
 \contentsline {table}{\numberline {3.35}{\ignorespaces Work Package 35:Xây dựng chức năng quản trị quản lý\relax }}{35}% 
+=======
+\contentsline {table}{\numberline {3.1}{\ignorespaces Work Package 1: Lấy yêu cầu khách hàng\relax }}{20}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces Work Package 2: Phân tích, thiết kế giao diện trang chủ\relax }}{21}% 
+\contentsline {table}{\numberline {3.3}{\ignorespaces Work Package 3: Phân tích, thiết kế giao diện trang xem phim\relax }}{22}% 
+\contentsline {table}{\numberline {3.4}{\ignorespaces Work Package 3: Phân tích, thiết kế giao diện trang tìm kiếm\relax }}{22}% 
+\contentsline {table}{\numberline {3.5}{\ignorespaces Work Package 5: Phân tích, thiết kế giao diện trang chi tiết phim\relax }}{22}% 
+\contentsline {table}{\numberline {3.6}{\ignorespaces Work Package 6: Phân tích, thiết kế tương thích giao diện\relax }}{23}% 
+\contentsline {table}{\numberline {3.7}{\ignorespaces Work Package 7: Phân tích, thiết kế chức năng xem phim\relax }}{24}% 
+\contentsline {table}{\numberline {3.8}{\ignorespaces Work Package 8: Phân tích, thiết kế chức năng tìm kiếm\relax }}{24}% 
+\contentsline {table}{\numberline {3.9}{\ignorespaces Work Package 9: Phân tích, thiết kế chức năng đăng nhập\relax }}{24}% 
+\contentsline {table}{\numberline {3.10}{\ignorespaces Work Package 10: Phân tích, thiết kế chức năng bình luận\relax }}{25}% 
+\contentsline {table}{\numberline {3.11}{\ignorespaces Work Package 11: Phân tích, thiết kế chức năng phân tích thói quen xem phim của người dùng\relax }}{25}% 
+\contentsline {table}{\numberline {3.12}{\ignorespaces Work Package 12: Phân tích, thiết kế giao diện trang quản trị phim\relax }}{26}% 
+\contentsline {table}{\numberline {3.13}{\ignorespaces Work Package 13: Phân tích, thiết kế giao diện trang quản trị quản lý\relax }}{26}% 
+\contentsline {table}{\numberline {3.14}{\ignorespaces Work Package 14: Phân tích, thiết kế tương thích giao diện trang back-end với smartphone\relax }}{27}% 
+\contentsline {table}{\numberline {3.15}{\ignorespaces Work Package 15: Phân tích, thiết kế chức năng quản trị phim\relax }}{28}% 
+\contentsline {table}{\numberline {3.16}{\ignorespaces Work Package 16: Phân tích, thiết kế chức năng quản trị quản lý\relax }}{28}% 
+\contentsline {table}{\numberline {3.17}{\ignorespaces Work Package 17: Phân tích, thiết kế cơ sở dữ liệu\relax }}{29}% 
+\contentsline {table}{\numberline {3.18}{\ignorespaces Work Package 18: Phân tích, thiết kế phân quyền trên cơ sở dữ liệu\relax }}{29}% 
+\contentsline {table}{\numberline {3.19}{\ignorespaces Work Package 19: Phân tích, thiết kế phân nhóm quyền trên cơ sở dữ liệu\relax }}{30}% 
+\contentsline {table}{\numberline {3.20}{\ignorespaces Work Package 20: Phân tích, thiết kế chức năng sao lưu, phục hồi cơ sở dữ liệu\relax }}{30}% 
+>>>>>>> bc24f1e975691ee67a480797ae8564bc6412e180
 \addvspace {10\p@ }
 \addvspace {10\p@ }
