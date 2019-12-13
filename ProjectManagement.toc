@@ -1,107 +1,5 @@
 \contentsline {chapter}{\numberline {1}Giới thiệu khách hàng}{13}% 
 \contentsline {chapter}{\numberline {2}Yêu cầu khách hàng}{15}% 
-<<<<<<< HEAD
-\contentsline {chapter}{\numberline {3}Work Breakdown Structure (WBS)}{17}% 
-\contentsline {section}{\numberline {3.1}Xây dựng website}{17}% 
-\contentsline {subsection}{\numberline {3.1.1}Lấy yêu cầu khách hàng}{17}% 
-\contentsline {subsection}{\numberline {3.1.2}Phân tích và thiết kế}{18}% 
-\contentsline {subsubsection}{\numberline {3.1.2.1}Phân tích, thiết kế Front-end site}{19}% 
-\contentsline {paragraph}{\numberline {3.1.2.1.1}Phân tích, thiết kế giao diện}{19}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.1.1}Phân tích, thiết kế giao diện trang chủ}{19}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.1.2}Phân tích, thiết kế giao diện trang xem phim}{19}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.1.3}Phân tích, thiết kế giao diện trang tìm kiếm}{19}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.1.4}Phân tích, thiết kế giao diện trang chi tiết phim}{20}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.1.5}Phân tích, thiết kế tương thích giao diện}{21}% 
-\contentsline {paragraph}{\numberline {3.1.2.1.2}Phân tích, thiết kế chức năng}{21}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.2.1}Phân tích, thiết kế chức năng xem phim}{21}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.2.2}Phân tích, thiết kế chức năng tìm kiếm}{21}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.2.3}Phân tích, thiết kế chức năng đăng nhập}{21}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.2.4}Phân tích, thiết kế chức năng bình luận}{22}% 
-\contentsline {subparagraph}{\numberline {3.1.2.1.2.5}Phân tích, thiết kế chức năng phân tích thói quen người dùng}{23}% 
-\contentsline {subsubsection}{\numberline {3.1.2.2}Phân tích, thiết kế Back-end site}{23}% 
-\contentsline {paragraph}{\numberline {3.1.2.2.1}Phân tích, thiết kế giao diện}{24}% 
-\contentsline {subparagraph}{\numberline {3.1.2.2.1.1}Phân tích, thiết kế giao diện trang quản trị phim}{24}% 
-\contentsline {subparagraph}{\numberline {3.1.2.2.1.2}Phân tích, thiết kê giao diện trang quản trị quản lý}{24}% 
-\contentsline {subparagraph}{\numberline {3.1.2.2.1.3}Phân tích, thiết kế tương thích giao diện}{25}% 
-\contentsline {paragraph}{\numberline {3.1.2.2.2}Phân tích, thiết kế chức năng}{25}% 
-\contentsline {subparagraph}{\numberline {3.1.2.2.2.1}Phân tích, thiết kế chức năng quản trị phim}{25}% 
-\contentsline {subparagraph}{\numberline {3.1.2.2.2.2}Phân tích, thiết kế chức năng quản trị quản lý}{25}% 
-\contentsline {subsubsection}{\numberline {3.1.2.3}Phân tích, thiết kế bảo mật}{26}% 
-\contentsline {paragraph}{\numberline {3.1.2.3.1}Phân tích, thiết kế cơ sở dữ liệu}{26}% 
-\contentsline {paragraph}{\numberline {3.1.2.3.2}Phân tích, thiết kế phân quyền}{27}% 
-\contentsline {subparagraph}{\numberline {3.1.2.3.2.1}Phân tích, thiết kế quyền trên cơ sở sữ liệu}{27}% 
-\contentsline {subparagraph}{\numberline {3.1.2.3.2.2}Phân tích, thiết kế nhóm quyền trên cơ sở dữ liệu}{28}% 
-\contentsline {paragraph}{\numberline {3.1.2.3.3}Phân tích, thiết kế sao lưu và phục hồi}{28}% 
-\contentsline {subsection}{\numberline {3.1.3}Xây dựng}{29}% 
-\contentsline {subsubsection}{\numberline {3.1.3.1}Xây dựng Front-end site}{29}% 
-\contentsline {paragraph}{\numberline {3.1.3.1.1}Xây dựng giao diện}{29}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.1.1}Xây dựng giao diện trang chủ}{29}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.1.2}Xây dựng giao diện trang xem phim}{29}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.1.3}Xây dựng giao diện trang tìm kiếm}{30}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.1.4}Xây dựng giao diện trang chi tiết phim}{30}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.1.5}Xây dựng tương thích giao diện}{31}% 
-\contentsline {paragraph}{\numberline {3.1.3.1.2}Xây dựng chức năng}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.1}Xây dựng chức năng xem phim}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.2}Xây dựng chức năng tìm kiếm}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.3}Xây dựng chức năng đăng nhập}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.4}Xây dựng chức năng bình luận}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.5}Xây dựng chức năng phân tích sở thích người dùng}{32}% 
-\contentsline {subsubsection}{\numberline {3.1.3.2}Xây dựng Back-end site}{33}% 
-\contentsline {paragraph}{\numberline {3.1.3.2.1}Xây dựng giao diện}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.1.1}Xây dựng giao diện trang quản trị phim}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.1.2}Xây dựng giao diện trang quản trị quản lý}{34}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.1.3}Xây dựng tương thích giao diện với thiết bị}{34}% 
-\contentsline {paragraph}{\numberline {3.1.3.2.2}Xây dựng chức năng}{35}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.2.1}Xây dựng chức năng quản trị phim}{35}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.2.2}Xây dựng chức năng quản trị quản lý}{35}% 
-\contentsline {subsubsection}{\numberline {3.1.3.3}Xây dựng bảo mật}{35}% 
-\contentsline {paragraph}{\numberline {3.1.3.3.1}Xây dựng cơ sở dữ liệu}{35}% 
-\contentsline {paragraph}{\numberline {3.1.3.3.2}Xây dựng phân quyền trên cơ sở dữ liệu}{35}% 
-\contentsline {subparagraph}{\numberline {3.1.3.3.2.1}Xây dựng các quyền trên cơ sở dữ liệu}{36}% 
-\contentsline {subparagraph}{\numberline {3.1.3.3.2.2}Xây dựng nhóm quyền trên cơ sở dữ liệu}{36}% 
-\contentsline {paragraph}{\numberline {3.1.3.3.3}Xây dựng chức năng sao lưu và phục hồi}{36}% 
-\contentsline {subsection}{\numberline {3.1.4}Kiểm thử và khắc phục}{36}% 
-\contentsline {subsubsection}{\numberline {3.1.4.1}Kiểm thử và khắc phục Front-end site}{36}% 
-\contentsline {paragraph}{\numberline {3.1.4.1.1}Kiểm thử và khắc phục giao diện}{36}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.1}Kiểm thử, khắc phục giao diện trang chủ}{36}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.2}Kiểm thử, khắc phục giao diện trang xem phim}{36}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.3}Kiểm thử, khắc phục giao diện trang tìm kiếm}{36}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.4}Kiểm thử, khắc phục giao diện trang chi tiết phim}{36}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.5}Kiểm thử, khắc phục tương thích của giao diện}{36}% 
-\contentsline {paragraph}{\numberline {3.1.4.1.2}Kiểm thử và khắc phục chức năng}{36}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.1}Kiểm thử, khắc phục chức năng xem phim}{36}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.2}Kiểm thử, khắc phục chức năng đăng nhập}{36}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.3}Kiểm thử, khắc phục chức năng bình luận}{37}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.4}Kiểm thử, khắc phục chức năng tìm kiếm}{37}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.5}Kiểm thử, khắc phục chức năng theo dõi thói quen của người dùng}{37}% 
-\contentsline {subsubsection}{\numberline {3.1.4.2}Kiểm thử và khắc phục Back-end site}{37}% 
-\contentsline {paragraph}{\numberline {3.1.4.2.1}Kiểm thử và khắc phục giao diện}{37}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.1.1}Kiểm thử, khắc phục giao diện trang quản trị phim}{37}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.1.2}Kiểm thử, khắc phục giao diện trang quản trị quản lý}{37}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.1.3}Kiểm thử, khắc phục tương thích của giao diện}{37}% 
-\contentsline {paragraph}{\numberline {3.1.4.2.2}Kiểm thử và khắc phục chức năng}{37}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.2.1}Kiểm thử, khắc phục chức năng quản trị phim}{37}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.2.2}Kiểm thử, khắc phục chức năng quản trị quản lý}{37}% 
-\contentsline {subsubsection}{\numberline {3.1.4.3}Kiểm thử và khắc phục bảo mật}{37}% 
-\contentsline {paragraph}{\numberline {3.1.4.3.1}Kiểm thử và khắc phục cơ sở dữ liệu}{37}% 
-\contentsline {paragraph}{\numberline {3.1.4.3.2}Kiểm thử và khắc phục phân quyền}{38}% 
-\contentsline {paragraph}{\numberline {3.1.4.3.3}Kiểm thử và khắc phục chức năng sao lưu và phục hồi}{38}% 
-\contentsline {subsection}{\numberline {3.1.5}Triển khai}{38}% 
-\contentsline {subsubsection}{\numberline {3.1.5.1}Chọn thời gian triển khai website}{38}% 
-\contentsline {subsubsection}{\numberline {3.1.5.2}Triển khai website trên môi trường doanh nghiệp}{38}% 
-\contentsline {subsubsection}{\numberline {3.1.5.3}Kiểm tra, khắc phục lỗi website trên môi trường doanh nghiệp}{38}% 
-\contentsline {section}{\numberline {3.2}Dịch vụ hosting}{38}% 
-\contentsline {subsection}{\numberline {3.2.1}Lấy yêu cầu khách hàng}{38}% 
-\contentsline {subsection}{\numberline {3.2.2}Chọn cấu hình hosting}{38}% 
-\contentsline {subsection}{\numberline {3.2.3}Cấu hình môi trường hosting}{38}% 
-\contentsline {subsection}{\numberline {3.2.4}Kiểm thử và khắc phục cấu hình hosting}{38}% 
-\contentsline {subsection}{\numberline {3.2.5}Bàn giao}{38}% 
-\contentsline {section}{\numberline {3.3}Responsibility Matrix}{38}% 
-\contentsline {chapter}{\numberline {4}Lập lịch}{39}% 
-\contentsline {section}{\numberline {4.1}Lập lịch công việc}{39}% 
-\contentsline {section}{\numberline {4.2}Phân phối nguồn lực}{39}% 
-\contentsline {chapter}{\numberline {5}Quản trị rủi ro}{41}% 
-=======
 \contentsline {section}{\numberline {2.1}Sơ đồ website}{15}% 
 \contentsline {section}{\numberline {2.2}Nội dung}{15}% 
 \contentsline {section}{\numberline {2.3}Thiết kế}{16}% 
@@ -145,68 +43,67 @@
 \contentsline {paragraph}{\numberline {3.1.3.1.1}Xây dựng giao diện}{31}% 
 \contentsline {subparagraph}{\numberline {3.1.3.1.1.1}Xây dựng giao diện trang chủ}{31}% 
 \contentsline {subparagraph}{\numberline {3.1.3.1.1.2}Xây dựng giao diện trang xem phim}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.1.3}Xây dựng giao diện trang tìm kiếm}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.1.4}Xây dựng giao diện trang chi tiết phim}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.1.5}Xây dựng tương thích giao diện}{31}% 
-\contentsline {paragraph}{\numberline {3.1.3.1.2}Xây dựng chức năng}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.1}Xây dựng chức năng xem phim}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.2}Xây dựng chức năng tìm kiếm}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.3}Xây dựng chức năng đăng nhập}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.4}Xây dựng chức năng bình luận}{31}% 
-\contentsline {subparagraph}{\numberline {3.1.3.1.2.5}Xây dựng chức năng theo dõi sở thích người dùng}{31}% 
-\contentsline {subsubsection}{\numberline {3.1.3.2}Xây dựng Back-end site}{32}% 
-\contentsline {paragraph}{\numberline {3.1.3.2.1}Xây dựng giao diện}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.1.1}Xây dựng giao diện trang quản trị phim}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.1.2}Xây dựng giao diện trang quản trị quản lý}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.1.3}Xây dựng tương thích giao diện với thiết bị}{32}% 
-\contentsline {paragraph}{\numberline {3.1.3.2.2}Xây dựng chức năng}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.2.1}Xây dựng chức năng quản trị phim}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.2.2.2}Xây dựng chức năng quản trị quản lý}{32}% 
-\contentsline {subsubsection}{\numberline {3.1.3.3}Xây dựng bảo mật}{32}% 
-\contentsline {paragraph}{\numberline {3.1.3.3.1}Xây dựng cơ sở dữ liệu}{32}% 
-\contentsline {paragraph}{\numberline {3.1.3.3.2}Xây dựng phân quyền trên cơ sở dữ liệu}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.3.2.1}Xây dựng các quyền trên cơ sở dữ liệu}{32}% 
-\contentsline {subparagraph}{\numberline {3.1.3.3.2.2}Xây dựng nhóm quyền trên cơ sở dữ liệu}{32}% 
-\contentsline {paragraph}{\numberline {3.1.3.3.3}Xây dựng chức năng sao lưu và phục hồi}{32}% 
-\contentsline {subsection}{\numberline {3.1.4}Kiểm thử và khắc phục}{33}% 
-\contentsline {subsubsection}{\numberline {3.1.4.1}Kiểm thử và khắc phục Front-end site}{33}% 
-\contentsline {paragraph}{\numberline {3.1.4.1.1}Kiểm thử và khắc phục giao diện}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.1}Kiểm thử, khắc phục giao diện trang chủ}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.2}Kiểm thử, khắc phục giao diện trang xem phim}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.3}Kiểm thử, khắc phục giao diện trang tìm kiếm}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.4}Kiểm thử, khắc phục giao diện trang chi tiết phim}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.1.5}Kiểm thử, khắc phục tương thích của giao diện}{33}% 
-\contentsline {paragraph}{\numberline {3.1.4.1.2}Kiểm thử và khắc phục chức năng}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.1}Kiểm thử, khắc phục chức năng xem phim}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.2}Kiểm thử, khắc phục chức năng đăng nhập}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.3}Kiểm thử, khắc phục chức năng bình luận}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.4}Kiểm thử, khắc phục chức năng tìm kiếm}{33}% 
-\contentsline {subparagraph}{\numberline {3.1.4.1.2.5}Kiểm thử, khắc phục chức năng theo dõi thói quen của người dùng}{34}% 
-\contentsline {subsubsection}{\numberline {3.1.4.2}Kiểm thử và khắc phục Back-end site}{34}% 
-\contentsline {paragraph}{\numberline {3.1.4.2.1}Kiểm thử và khắc phục giao diện}{34}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.1.1}Kiểm thử, khắc phục giao diện trang quản trị phim}{34}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.1.2}Kiểm thử, khắc phục giao diện trang quản trị quản lý}{34}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.1.3}Kiểm thử, khắc phục tương thích của giao diện}{34}% 
-\contentsline {paragraph}{\numberline {3.1.4.2.2}Kiểm thử và khắc phục chức năng}{34}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.2.1}Kiểm thử, khắc phục chức năng quản trị phim}{34}% 
-\contentsline {subparagraph}{\numberline {3.1.4.2.2.2}Kiểm thử, khắc phục chức năng quản trị quản lý}{34}% 
-\contentsline {subsubsection}{\numberline {3.1.4.3}Kiểm thử và khắc phục bảo mật}{34}% 
-\contentsline {paragraph}{\numberline {3.1.4.3.1}Kiểm thử và khắc phục cơ sở dữ liệu}{34}% 
-\contentsline {paragraph}{\numberline {3.1.4.3.2}Kiểm thử và khắc phục phân quyền}{34}% 
-\contentsline {paragraph}{\numberline {3.1.4.3.3}Kiểm thử và khắc phục chức năng sao lưu và phục hồi}{34}% 
-\contentsline {subsection}{\numberline {3.1.5}Triển khai}{35}% 
-\contentsline {subsubsection}{\numberline {3.1.5.1}Chọn thời gian triển khai website}{35}% 
-\contentsline {subsubsection}{\numberline {3.1.5.2}Triển khai website trên môi trường doanh nghiệp}{35}% 
-\contentsline {subsubsection}{\numberline {3.1.5.3}Kiểm tra, khắc phục lỗi website trên môi trường doanh nghiệp}{35}% 
-\contentsline {section}{\numberline {3.2}Dịch vụ hosting}{35}% 
-\contentsline {subsection}{\numberline {3.2.1}Lấy yêu cầu khách hàng}{35}% 
-\contentsline {subsection}{\numberline {3.2.2}Chọn cấu hình hosting}{35}% 
-\contentsline {subsection}{\numberline {3.2.3}Cấu hình môi trường hosting}{35}% 
-\contentsline {subsection}{\numberline {3.2.4}Kiểm thử và khắc phục cấu hình hosting}{35}% 
-\contentsline {subsection}{\numberline {3.2.5}Bàn giao}{35}% 
-\contentsline {section}{\numberline {3.3}Responsibility Matrix}{35}% 
-\contentsline {chapter}{\numberline {4}Lập lịch}{37}% 
-\contentsline {section}{\numberline {4.1}Lập lịch công việc}{37}% 
-\contentsline {section}{\numberline {4.2}Phân phối nguồn lực}{37}% 
-\contentsline {chapter}{\numberline {5}Quản trị rủi ro}{39}% 
->>>>>>> bc24f1e975691ee67a480797ae8564bc6412e180
+\contentsline {subparagraph}{\numberline {3.1.3.1.1.3}Xây dựng giao diện trang tìm kiếm}{32}% 
+\contentsline {subparagraph}{\numberline {3.1.3.1.1.4}Xây dựng giao diện trang chi tiết phim}{32}% 
+\contentsline {subparagraph}{\numberline {3.1.3.1.1.5}Xây dựng tương thích giao diện}{33}% 
+\contentsline {paragraph}{\numberline {3.1.3.1.2}Xây dựng chức năng}{33}% 
+\contentsline {subparagraph}{\numberline {3.1.3.1.2.1}Xây dựng chức năng xem phim}{33}% 
+\contentsline {subparagraph}{\numberline {3.1.3.1.2.2}Xây dựng chức năng tìm kiếm}{34}% 
+\contentsline {subparagraph}{\numberline {3.1.3.1.2.3}Xây dựng chức năng đăng nhập}{34}% 
+\contentsline {subparagraph}{\numberline {3.1.3.1.2.4}Xây dựng chức năng bình luận}{34}% 
+\contentsline {subparagraph}{\numberline {3.1.3.1.2.5}Xây dựng chức năng phân tích sở thích người dùng}{34}% 
+\contentsline {subsubsection}{\numberline {3.1.3.2}Xây dựng Back-end site}{35}% 
+\contentsline {paragraph}{\numberline {3.1.3.2.1}Xây dựng giao diện}{35}% 
+\contentsline {subparagraph}{\numberline {3.1.3.2.1.1}Xây dựng giao diện trang quản trị phim}{35}% 
+\contentsline {subparagraph}{\numberline {3.1.3.2.1.2}Xây dựng giao diện trang quản trị quản lý}{36}% 
+\contentsline {subparagraph}{\numberline {3.1.3.2.1.3}Xây dựng tương thích giao diện với thiết bị}{36}% 
+\contentsline {paragraph}{\numberline {3.1.3.2.2}Xây dựng chức năng}{37}% 
+\contentsline {subparagraph}{\numberline {3.1.3.2.2.1}Xây dựng chức năng quản trị phim}{37}% 
+\contentsline {subparagraph}{\numberline {3.1.3.2.2.2}Xây dựng chức năng quản trị quản lý}{37}% 
+\contentsline {subsubsection}{\numberline {3.1.3.3}Xây dựng bảo mật}{37}% 
+\contentsline {paragraph}{\numberline {3.1.3.3.1}Xây dựng cơ sở dữ liệu}{37}% 
+\contentsline {paragraph}{\numberline {3.1.3.3.2}Xây dựng phân quyền trên cơ sở dữ liệu}{37}% 
+\contentsline {subparagraph}{\numberline {3.1.3.3.2.1}Xây dựng các quyền trên cơ sở dữ liệu}{38}% 
+\contentsline {subparagraph}{\numberline {3.1.3.3.2.2}Xây dựng nhóm quyền trên cơ sở dữ liệu}{38}% 
+\contentsline {paragraph}{\numberline {3.1.3.3.3}Xây dựng chức năng sao lưu và phục hồi}{38}% 
+\contentsline {subsection}{\numberline {3.1.4}Kiểm thử và khắc phục}{38}% 
+\contentsline {subsubsection}{\numberline {3.1.4.1}Kiểm thử và khắc phục Front-end site}{38}% 
+\contentsline {paragraph}{\numberline {3.1.4.1.1}Kiểm thử và khắc phục giao diện}{38}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.1.1}Kiểm thử, khắc phục giao diện trang chủ}{38}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.1.2}Kiểm thử, khắc phục giao diện trang xem phim}{38}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.1.3}Kiểm thử, khắc phục giao diện trang tìm kiếm}{38}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.1.4}Kiểm thử, khắc phục giao diện trang chi tiết phim}{38}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.1.5}Kiểm thử, khắc phục tương thích của giao diện}{38}% 
+\contentsline {paragraph}{\numberline {3.1.4.1.2}Kiểm thử và khắc phục chức năng}{38}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.2.1}Kiểm thử, khắc phục chức năng xem phim}{38}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.2.2}Kiểm thử, khắc phục chức năng đăng nhập}{38}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.2.3}Kiểm thử, khắc phục chức năng bình luận}{39}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.2.4}Kiểm thử, khắc phục chức năng tìm kiếm}{39}% 
+\contentsline {subparagraph}{\numberline {3.1.4.1.2.5}Kiểm thử, khắc phục chức năng theo dõi thói quen của người dùng}{39}% 
+\contentsline {subsubsection}{\numberline {3.1.4.2}Kiểm thử và khắc phục Back-end site}{39}% 
+\contentsline {paragraph}{\numberline {3.1.4.2.1}Kiểm thử và khắc phục giao diện}{39}% 
+\contentsline {subparagraph}{\numberline {3.1.4.2.1.1}Kiểm thử, khắc phục giao diện trang quản trị phim}{39}% 
+\contentsline {subparagraph}{\numberline {3.1.4.2.1.2}Kiểm thử, khắc phục giao diện trang quản trị quản lý}{39}% 
+\contentsline {subparagraph}{\numberline {3.1.4.2.1.3}Kiểm thử, khắc phục tương thích của giao diện}{39}% 
+\contentsline {paragraph}{\numberline {3.1.4.2.2}Kiểm thử và khắc phục chức năng}{39}% 
+\contentsline {subparagraph}{\numberline {3.1.4.2.2.1}Kiểm thử, khắc phục chức năng quản trị phim}{39}% 
+\contentsline {subparagraph}{\numberline {3.1.4.2.2.2}Kiểm thử, khắc phục chức năng quản trị quản lý}{39}% 
+\contentsline {subsubsection}{\numberline {3.1.4.3}Kiểm thử và khắc phục bảo mật}{39}% 
+\contentsline {paragraph}{\numberline {3.1.4.3.1}Kiểm thử và khắc phục cơ sở dữ liệu}{39}% 
+\contentsline {paragraph}{\numberline {3.1.4.3.2}Kiểm thử và khắc phục phân quyền}{40}% 
+\contentsline {paragraph}{\numberline {3.1.4.3.3}Kiểm thử và khắc phục chức năng sao lưu và phục hồi}{40}% 
+\contentsline {subsection}{\numberline {3.1.5}Triển khai}{40}% 
+\contentsline {subsubsection}{\numberline {3.1.5.1}Chọn thời gian triển khai website}{40}% 
+\contentsline {subsubsection}{\numberline {3.1.5.2}Triển khai website trên môi trường doanh nghiệp}{40}% 
+\contentsline {subsubsection}{\numberline {3.1.5.3}Kiểm tra, khắc phục lỗi website trên môi trường doanh nghiệp}{40}% 
+\contentsline {section}{\numberline {3.2}Dịch vụ hosting}{40}% 
+\contentsline {subsection}{\numberline {3.2.1}Lấy yêu cầu khách hàng}{40}% 
+\contentsline {subsection}{\numberline {3.2.2}Chọn cấu hình hosting}{40}% 
+\contentsline {subsection}{\numberline {3.2.3}Cấu hình môi trường hosting}{40}% 
+\contentsline {subsection}{\numberline {3.2.4}Kiểm thử và khắc phục cấu hình hosting}{40}% 
+\contentsline {subsection}{\numberline {3.2.5}Bàn giao}{40}% 
+\contentsline {section}{\numberline {3.3}Responsibility Matrix}{40}% 
+\contentsline {chapter}{\numberline {4}Lập lịch}{41}% 
+\contentsline {section}{\numberline {4.1}Lập lịch công việc}{41}% 
+\contentsline {section}{\numberline {4.2}Phân phối nguồn lực}{41}% 
+\contentsline {chapter}{\numberline {5}Quản trị rủi ro}{43}% 
