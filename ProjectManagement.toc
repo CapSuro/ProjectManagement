@@ -103,7 +103,7 @@
 \contentsline {subsection}{\numberline {3.2.4}Kiểm thử và khắc phục cấu hình hosting}{40}% 
 \contentsline {subsection}{\numberline {3.2.5}Bàn giao}{40}% 
 \contentsline {section}{\numberline {3.3}Responsibility Matrix}{40}% 
-\contentsline {chapter}{\numberline {4}Lập lịch}{41}% 
-\contentsline {section}{\numberline {4.1}Lập lịch công việc}{41}% 
-\contentsline {section}{\numberline {4.2}Phân phối nguồn lực}{41}% 
-\contentsline {chapter}{\numberline {5}Quản trị rủi ro}{43}% 
+\contentsline {chapter}{\numberline {4}Lập lịch}{45}% 
+\contentsline {section}{\numberline {4.1}Lập lịch công việc}{45}% 
+\contentsline {section}{\numberline {4.2}Phân phối nguồn lực}{50}% 
+\contentsline {chapter}{\numberline {5}Quản trị rủi ro}{55}% 

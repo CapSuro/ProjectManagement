@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.5)  13 DEC 2019 19:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.5)  13 DEC 2019 22:04
 entering extended mode
 **./ProjectManagement.tex
 (ProjectManagement.tex
@@ -1302,47 +1302,215 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 5832) has occurred while \output is active []
 
  [35]
-[36] [37] [38] [39] [40]
+[36] [37] [38] [39]
+<RM_1_15.png, id=138, 448.67625pt x 359.84438pt>
+File: RM_1_15.png Graphic file (type png)
+<use RM_1_15.png>
+Package pdftex.def Info: RM_1_15.png  used on input line 842.
+(pdftex.def)             Requested size: 501.90442pt x 402.55074pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 842--843
+ [][] 
+ []
+
+<RM_16_34.png, id=139, 450.9347pt x 359.84438pt>
+File: RM_16_34.png Graphic file (type png)
+<use RM_16_34.png>
+Package pdftex.def Info: RM_16_34.png  used on input line 848.
+(pdftex.def)             Requested size: 501.90442pt x 400.5411pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 848--849
+ [][] 
+ []
+
+<RM_35_51.png, id=140, 448.67625pt x 369.63094pt>
+File: RM_35_51.png Graphic file (type png)
+<use RM_35_51.png>
+Package pdftex.def Info: RM_35_51.png  used on input line 854.
+(pdftex.def)             Requested size: 501.90442pt x 413.49876pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 854--855
+ [][] 
+ []
+
+<RM_52_65.png, id=141, 450.18187pt x 295.1025pt>
+File: RM_52_65.png Graphic file (type png)
+<use RM_52_65.png>
+Package pdftex.def Info: RM_52_65.png  used on input line 860.
+(pdftex.def)             Requested size: 501.90442pt x 329.02206pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 860--861
+ [][] 
+ []
+
+[40] [41 <./RM_1_15.png>] [42 <./RM_16_34.png>] [43 <./RM_35_51.png>] [44 <./RM
+_52_65.png>]
 Ch\uhorn \ohorn ng 4.
-[41
+<Timing_1_15.png, id=162, 374.90062pt x 369.63094pt>
+File: Timing_1_15.png Graphic file (type png)
+<use Timing_1_15.png>
+Package pdftex.def Info: Timing_1_15.png  used on input line 869.
+(pdftex.def)             Requested size: 501.90442pt x 494.87985pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 869--870
+ [][] 
+ []
+
+<Timing_16_32.png, id=163, 372.64218pt x 370.38374pt>
+File: Timing_16_32.png Graphic file (type png)
+<use Timing_16_32.png>
+Package pdftex.def Info: Timing_16_32.png  used on input line 875.
+(pdftex.def)             Requested size: 501.90442pt x 498.8831pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 875--876
+ [][] 
+ []
+
+<Timing_33_48.png, id=164, 376.40625pt x 350.05782pt>
+File: Timing_33_48.png Graphic file (type png)
+<use Timing_33_48.png>
+Package pdftex.def Info: Timing_33_48.png  used on input line 881.
+(pdftex.def)             Requested size: 501.90442pt x 466.8049pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 881--882
+ [][] 
+ []
+
+<Timing_49_64.png, id=165, 374.14781pt x 370.38374pt>
+File: Timing_49_64.png Graphic file (type png)
+<use Timing_49_64.png>
+Package pdftex.def Info: Timing_49_64.png  used on input line 887.
+(pdftex.def)             Requested size: 501.90442pt x 496.88243pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 887--888
+ [][] 
+ []
+
+<Timing_65.png, id=166, 377.91188pt x 25.59563pt>
+File: Timing_65.png Graphic file (type png)
+<use Timing_65.png>
+Package pdftex.def Info: Timing_65.png  used on input line 893.
+(pdftex.def)             Requested size: 501.90442pt x 33.9937pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 893--894
+ [][] 
+ []
 
 
-] [42
+Underfull \hbox (badness 10000) in paragraph at lines 866--898
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 866--898
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 866--898
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 866--898
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45
+
+
+]
+[46 <./Timing_1_15.png>] [47 <./Timing_16_32.png>] [48 <./Timing_33_48.png>]
+[49 <./Timing_49_64.png> <./Timing_65.png>]
+<RP_1_15.png, id=188, 453.94594pt x 363.60844pt>
+File: RP_1_15.png Graphic file (type png)
+<use RP_1_15.png>
+Package pdftex.def Info: RP_1_15.png  used on input line 901.
+(pdftex.def)             Requested size: 501.90442pt x 402.0289pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 901--902
+ [][] 
+ []
+
+<RP_16_34.png, id=189, 453.94594pt x 362.85562pt>
+File: RP_16_34.png Graphic file (type png)
+<use RP_16_34.png>
+Package pdftex.def Info: RP_16_34.png  used on input line 907.
+(pdftex.def)             Requested size: 501.90442pt x 401.19655pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 907--908
+ [][] 
+ []
+
+<RP_35_51.png, id=190, 452.4403pt x 372.64218pt>
+File: RP_35_51.png Graphic file (type png)
+<use RP_35_51.png>
+Package pdftex.def Info: RP_35_51.png  used on input line 913.
+(pdftex.def)             Requested size: 501.90442pt x 413.38184pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 913--914
+ [][] 
+ []
+
+<RP_52_65.png, id=191, 451.6875pt x 295.85532pt>
+File: RP_52_65.png Graphic file (type png)
+<use RP_52_65.png>
+Package pdftex.def Info: RP_52_65.png  used on input line 919.
+(pdftex.def)             Requested size: 501.90442pt x 328.76894pt.
+
+Overfull \hbox (46.66031pt too wide) in paragraph at lines 919--920
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[50 <./RP_1_15.png>] [51 <./RP_16_34.png>] [52 <./RP_35_51.png>] [53 <./RP_52_6
+5.png>] [54
 
 
 ]
 Ch\uhorn \ohorn ng 5.
-[43] [44
+[55] [56
 
 
 ] (ProjectManagement.lot
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [45]
-[46])
+ [57]
+[58])
 \tf@lot=\write5
 \openout5 = `ProjectManagement.lot'.
 
- [47] [48
+ [59] [60
 
 
 ] (ProjectManagement.lof)
 \tf@lof=\write6
 \openout6 = `ProjectManagement.lof'.
 
- [49] (ProjectManagement.bbl [50
+ [61] (ProjectManagement.bbl [62
 
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [51] (ProjectManagement.aux) ) 
+) [63] (ProjectManagement.aux) ) 
 Here is how much of TeX's memory you used:
- 27788 strings out of 492452
- 538489 string characters out of 3121465
- 683871 words of memory out of 3000000
- 31790 multiletter control sequences out of 15000+200000
+ 27893 strings out of 492452
+ 540178 string characters out of 3121465
+ 684014 words of memory out of 3000000
+ 31881 multiletter control sequences out of 15000+200000
  571444 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,13n,67p,827b,511s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1354,9 +1522,9 @@ iKTeX 2.9/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/PC/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmbi8v.pfb><C:/Users/PC/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Users/PC/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on ProjectManagement.pdf (51 pages, 184951 bytes).
+Output written on ProjectManagement.pdf (63 pages, 747050 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
+ 263 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
