@@ -1,68 +1,67 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Work Package 1: Lấy yêu cầu khách hàng\relax }}{20}% 
-\contentsline {table}{\numberline {3.2}{\ignorespaces Work Package 2: Phân tích, thiết kế giao diện trang chủ\relax }}{21}% 
-\contentsline {table}{\numberline {3.3}{\ignorespaces Work Package 3: Phân tích, thiết kế giao diện trang xem phim\relax }}{22}% 
-\contentsline {table}{\numberline {3.4}{\ignorespaces Work Package 3: Phân tích, thiết kế giao diện trang tìm kiếm\relax }}{22}% 
-\contentsline {table}{\numberline {3.5}{\ignorespaces Work Package 5: Phân tích, thiết kế giao diện trang chi tiết phim\relax }}{22}% 
-\contentsline {table}{\numberline {3.6}{\ignorespaces Work Package 6: Phân tích, thiết kế tương thích giao diện\relax }}{23}% 
-\contentsline {table}{\numberline {3.7}{\ignorespaces Work Package 7: Phân tích, thiết kế chức năng xem phim\relax }}{24}% 
-\contentsline {table}{\numberline {3.8}{\ignorespaces Work Package 8: Phân tích, thiết kế chức năng tìm kiếm\relax }}{24}% 
-\contentsline {table}{\numberline {3.9}{\ignorespaces Work Package 9: Phân tích, thiết kế chức năng đăng nhập\relax }}{24}% 
-\contentsline {table}{\numberline {3.10}{\ignorespaces Work Package 10: Phân tích, thiết kế chức năng bình luận\relax }}{25}% 
-\contentsline {table}{\numberline {3.11}{\ignorespaces Work Package 11: Phân tích, thiết kế chức năng phân tích thói quen xem phim của người dùng\relax }}{25}% 
-\contentsline {table}{\numberline {3.12}{\ignorespaces Work Package 12: Phân tích, thiết kế giao diện trang quản trị phim\relax }}{26}% 
-\contentsline {table}{\numberline {3.13}{\ignorespaces Work Package 13: Phân tích, thiết kế giao diện trang quản trị quản lý\relax }}{26}% 
-\contentsline {table}{\numberline {3.14}{\ignorespaces Work Package 14: Phân tích, thiết kế tương thích giao diện trang back-end với smartphone\relax }}{27}% 
-\contentsline {table}{\numberline {3.15}{\ignorespaces Work Package 15: Phân tích, thiết kế chức năng quản trị phim\relax }}{28}% 
-\contentsline {table}{\numberline {3.16}{\ignorespaces Work Package 16: Phân tích, thiết kế chức năng quản trị quản lý\relax }}{28}% 
-\contentsline {table}{\numberline {3.17}{\ignorespaces Work Package 17: Phân tích, thiết kế cơ sở dữ liệu\relax }}{29}% 
-\contentsline {table}{\numberline {3.18}{\ignorespaces Work Package 18: Phân tích, thiết kế phân quyền trên cơ sở dữ liệu\relax }}{29}% 
-\contentsline {table}{\numberline {3.19}{\ignorespaces Work Package 19: Phân tích, thiết kế phân nhóm quyền trên cơ sở dữ liệu\relax }}{30}% 
-\contentsline {table}{\numberline {3.20}{\ignorespaces Work Package 20: Phân tích, thiết kế chức năng sao lưu, phục hồi cơ sở dữ liệu\relax }}{30}% 
-\contentsline {table}{\numberline {3.21}{\ignorespaces Work Package 21:Xây dựng giao diện trang chủ\relax }}{31}% 
-\contentsline {table}{\numberline {3.22}{\ignorespaces Work Package 22:Xây dựng giao diện trang xem phim\relax }}{32}% 
-\contentsline {table}{\numberline {3.23}{\ignorespaces Work Package 23:Xây dựng giao diện trang tìm kiếm\relax }}{32}% 
-\contentsline {table}{\numberline {3.24}{\ignorespaces Work Package 24:Xây dựng giao diện trang chi tiết phim\relax }}{32}% 
-\contentsline {table}{\numberline {3.25}{\ignorespaces Work Package 25:Xây dựng giao diện trang chủ\relax }}{33}% 
-\contentsline {table}{\numberline {3.26}{\ignorespaces Work Package 26:Xây dựng chức năng xem phim\relax }}{33}% 
-\contentsline {table}{\numberline {3.27}{\ignorespaces Work Package 27:Xây dựng chức năng tìm kiếm\relax }}{34}% 
-\contentsline {table}{\numberline {3.28}{\ignorespaces Work Package 28:Xây dựng chức năng đăng nhập\relax }}{34}% 
-\contentsline {table}{\numberline {3.29}{\ignorespaces Work Package 29:Xây dựng chức năng bình luận\relax }}{35}% 
-\contentsline {table}{\numberline {3.30}{\ignorespaces Work Package 30:Xây dựng chức năng phân tích sở thích người dùng\relax }}{35}% 
-\contentsline {table}{\numberline {3.31}{\ignorespaces Work Package 31:Xây dựng giao diện trang quản trị phim\relax }}{36}% 
-\contentsline {table}{\numberline {3.32}{\ignorespaces Work Package 32:Xây dựng giao diện trang quản trị quản lý\relax }}{36}% 
-\contentsline {table}{\numberline {3.33}{\ignorespaces Work Package 33:Xây dựng giao diện tương thích với smartphone\relax }}{36}% 
-\contentsline {table}{\numberline {3.34}{\ignorespaces Work Package 34:Xây dựng chức năng quản trị phim\relax }}{37}% 
-\contentsline {table}{\numberline {3.35}{\ignorespaces Work Package 35:Xây dựng chức năng quản trị quản lý\relax }}{37}% 
-\contentsline {table}{\numberline {3.36}{\ignorespaces Work Package 36:Xây dựng các quyền trên cơ sở dữ liệu\relax }}{38}% 
-\contentsline {table}{\numberline {3.37}{\ignorespaces Work Package 37:Xây dựng nhóm quyền trên cơ sở dữ liệu\relax }}{38}% 
-\contentsline {table}{\numberline {3.38}{\ignorespaces Work Package 38:Kiểm thử, khắc phục giao diện trang chủ\relax }}{39}% 
-\contentsline {table}{\numberline {3.39}{\ignorespaces Work Package 39:Kiểm thử, khắc phục giao diện trang xem phim\relax }}{39}% 
-\contentsline {table}{\numberline {3.40}{\ignorespaces Work Package 40:Kiểm thử, khắc phục giao diện trang tìm kiếm\relax }}{40}% 
-\contentsline {table}{\numberline {3.41}{\ignorespaces Work Package 41:Kiểm thử, khắc phục giao diện trang chi tiết phim\relax }}{40}% 
-\contentsline {table}{\numberline {3.42}{\ignorespaces Work Package 42:Kiểm thử, khắc phục tương thích của giao diện\relax }}{40}% 
-\contentsline {table}{\numberline {3.43}{\ignorespaces Work Package 43:Kiểm thử, khắc phục chức năng xem phim\relax }}{41}% 
-\contentsline {table}{\numberline {3.44}{\ignorespaces Work Package 44:Kiểm thử, khắc phục chức năng đăng nhập\relax }}{41}% 
-\contentsline {table}{\numberline {3.45}{\ignorespaces Work Package 45:Kiểm thử, khắc phục chức năng bình luận\relax }}{42}% 
-\contentsline {table}{\numberline {3.46}{\ignorespaces Work Package 46:Kiểm thử, khắc phục chức năng tìm kiếm\relax }}{42}% 
-\contentsline {table}{\numberline {3.47}{\ignorespaces Work Package 47:Kiểm thử, khắc phục chức năng theo dõi thói quen của người dùng\relax }}{42}% 
-\contentsline {table}{\numberline {3.48}{\ignorespaces Work Package 48:Kiểm thử, khắc phục giao diện trang quản trị phim\relax }}{43}% 
-\contentsline {table}{\numberline {3.49}{\ignorespaces Work Package 49:Kiểm thử, khắc phục giao diện trang quản trị quản lý\relax }}{43}% 
-\contentsline {table}{\numberline {3.50}{\ignorespaces Work Package 50:Kiểm thử, khắc phục tương thích của giao diện\relax }}{44}% 
-\contentsline {table}{\numberline {3.51}{\ignorespaces Work Package 51:Kiểm thử, khắc phục chức năng quản trị phim\relax }}{44}% 
-\contentsline {table}{\numberline {3.52}{\ignorespaces Work Package 52:Kiểm thử, khắc phục chức năng quản trị quản lý\relax }}{45}% 
-\contentsline {table}{\numberline {3.53}{\ignorespaces Work Package 53:Kiểm thử và khắc phục cơ sở dữ liệu\relax }}{45}% 
-\contentsline {table}{\numberline {3.54}{\ignorespaces Work Package 54:Kiểm thử và khắc phục phân quyền\relax }}{45}% 
-\contentsline {table}{\numberline {3.55}{\ignorespaces Work Package 55:Kiểm thử và khắc phục chức năng sao lưu và phục hồi\relax }}{46}% 
-\contentsline {table}{\numberline {3.56}{\ignorespaces Work Package 56:Cấu hình môi trường triển khai\relax }}{46}% 
-\contentsline {table}{\numberline {3.57}{\ignorespaces Work Package 57:Triển khai website trên môi trường doanh nghiệp\relax }}{47}% 
-\contentsline {table}{\numberline {3.58}{\ignorespaces Work Package 58:Kiểm tra, khắc phục lỗi website trên môi trường doanh nghiệp\relax }}{47}% 
-\contentsline {table}{\numberline {3.59}{\ignorespaces Work Package 59:Lấy yêu cầu khách hàng\relax }}{48}% 
-\contentsline {table}{\numberline {3.60}{\ignorespaces Work Package 60:Chọn cấu hình hosting\relax }}{48}% 
-\contentsline {table}{\numberline {3.61}{\ignorespaces Work Package 61:Cấu hình môi trường hosting\relax }}{48}% 
-\contentsline {table}{\numberline {3.62}{\ignorespaces Work Package 62:Kiểm thử và khắc phục cấu hình hosting\relax }}{49}% 
-\contentsline {table}{\numberline {3.63}{\ignorespaces Work Package 63:Bàn giao\relax }}{49}% 
-\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Work Package 1: Lấy yêu cầu khách hàng\relax }}{18}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces Work Package 2: Phân tích, thiết kế giao diện trang chủ\relax }}{19}% 
+\contentsline {table}{\numberline {3.3}{\ignorespaces Work Package 3: Phân tích, thiết kế giao diện trang xem phim\relax }}{20}% 
+\contentsline {table}{\numberline {3.4}{\ignorespaces Work Package 3: Phân tích, thiết kế giao diện trang tìm kiếm\relax }}{20}% 
+\contentsline {table}{\numberline {3.5}{\ignorespaces Work Package 5: Phân tích, thiết kế giao diện trang chi tiết phim\relax }}{20}% 
+\contentsline {table}{\numberline {3.6}{\ignorespaces Work Package 6: Phân tích, thiết kế tương thích giao diện\relax }}{21}% 
+\contentsline {table}{\numberline {3.7}{\ignorespaces Work Package 7: Phân tích, thiết kế chức năng xem phim\relax }}{22}% 
+\contentsline {table}{\numberline {3.8}{\ignorespaces Work Package 8: Phân tích, thiết kế chức năng tìm kiếm\relax }}{22}% 
+\contentsline {table}{\numberline {3.9}{\ignorespaces Work Package 9: Phân tích, thiết kế chức năng đăng nhập\relax }}{22}% 
+\contentsline {table}{\numberline {3.10}{\ignorespaces Work Package 10: Phân tích, thiết kế chức năng bình luận\relax }}{23}% 
+\contentsline {table}{\numberline {3.11}{\ignorespaces Work Package 11: Phân tích, thiết kế chức năng phân tích thói quen xem phim của người dùng\relax }}{23}% 
+\contentsline {table}{\numberline {3.12}{\ignorespaces Work Package 12: Phân tích, thiết kế giao diện trang quản trị phim\relax }}{24}% 
+\contentsline {table}{\numberline {3.13}{\ignorespaces Work Package 13: Phân tích, thiết kế giao diện trang quản trị quản lý\relax }}{24}% 
+\contentsline {table}{\numberline {3.14}{\ignorespaces Work Package 14: Phân tích, thiết kế tương thích giao diện trang back-end với smartphone\relax }}{25}% 
+\contentsline {table}{\numberline {3.15}{\ignorespaces Work Package 15: Phân tích, thiết kế chức năng quản trị phim\relax }}{26}% 
+\contentsline {table}{\numberline {3.16}{\ignorespaces Work Package 16: Phân tích, thiết kế chức năng quản trị quản lý\relax }}{26}% 
+\contentsline {table}{\numberline {3.17}{\ignorespaces Work Package 17: Phân tích, thiết kế cơ sở dữ liệu\relax }}{27}% 
+\contentsline {table}{\numberline {3.18}{\ignorespaces Work Package 18: Phân tích, thiết kế phân quyền trên cơ sở dữ liệu\relax }}{27}% 
+\contentsline {table}{\numberline {3.19}{\ignorespaces Work Package 19: Phân tích, thiết kế phân nhóm quyền trên cơ sở dữ liệu\relax }}{28}% 
+\contentsline {table}{\numberline {3.20}{\ignorespaces Work Package 20: Phân tích, thiết kế chức năng sao lưu, phục hồi cơ sở dữ liệu\relax }}{28}% 
+\contentsline {table}{\numberline {3.21}{\ignorespaces Work Package 21:Xây dựng giao diện trang chủ\relax }}{29}% 
+\contentsline {table}{\numberline {3.22}{\ignorespaces Work Package 22:Xây dựng giao diện trang xem phim\relax }}{30}% 
+\contentsline {table}{\numberline {3.23}{\ignorespaces Work Package 23:Xây dựng giao diện trang tìm kiếm\relax }}{30}% 
+\contentsline {table}{\numberline {3.24}{\ignorespaces Work Package 24:Xây dựng giao diện trang chi tiết phim\relax }}{30}% 
+\contentsline {table}{\numberline {3.25}{\ignorespaces Work Package 25:Xây dựng giao diện trang chủ\relax }}{31}% 
+\contentsline {table}{\numberline {3.26}{\ignorespaces Work Package 26:Xây dựng chức năng xem phim\relax }}{31}% 
+\contentsline {table}{\numberline {3.27}{\ignorespaces Work Package 27:Xây dựng chức năng tìm kiếm\relax }}{32}% 
+\contentsline {table}{\numberline {3.28}{\ignorespaces Work Package 28:Xây dựng chức năng đăng nhập\relax }}{32}% 
+\contentsline {table}{\numberline {3.29}{\ignorespaces Work Package 29:Xây dựng chức năng bình luận\relax }}{33}% 
+\contentsline {table}{\numberline {3.30}{\ignorespaces Work Package 30:Xây dựng chức năng phân tích sở thích người dùng\relax }}{33}% 
+\contentsline {table}{\numberline {3.31}{\ignorespaces Work Package 31:Xây dựng giao diện trang quản trị phim\relax }}{34}% 
+\contentsline {table}{\numberline {3.32}{\ignorespaces Work Package 32:Xây dựng giao diện trang quản trị quản lý\relax }}{34}% 
+\contentsline {table}{\numberline {3.33}{\ignorespaces Work Package 33:Xây dựng giao diện tương thích với smartphone\relax }}{34}% 
+\contentsline {table}{\numberline {3.34}{\ignorespaces Work Package 34:Xây dựng chức năng quản trị phim\relax }}{35}% 
+\contentsline {table}{\numberline {3.35}{\ignorespaces Work Package 35:Xây dựng chức năng quản trị quản lý\relax }}{35}% 
+\contentsline {table}{\numberline {3.36}{\ignorespaces Work Package 36:Xây dựng các quyền trên cơ sở dữ liệu\relax }}{36}% 
+\contentsline {table}{\numberline {3.37}{\ignorespaces Work Package 37:Xây dựng nhóm quyền trên cơ sở dữ liệu\relax }}{36}% 
+\contentsline {table}{\numberline {3.38}{\ignorespaces Work Package 38:Kiểm thử, khắc phục giao diện trang chủ\relax }}{37}% 
+\contentsline {table}{\numberline {3.39}{\ignorespaces Work Package 39:Kiểm thử, khắc phục giao diện trang xem phim\relax }}{37}% 
+\contentsline {table}{\numberline {3.40}{\ignorespaces Work Package 40:Kiểm thử, khắc phục giao diện trang tìm kiếm\relax }}{38}% 
+\contentsline {table}{\numberline {3.41}{\ignorespaces Work Package 41:Kiểm thử, khắc phục giao diện trang chi tiết phim\relax }}{38}% 
+\contentsline {table}{\numberline {3.42}{\ignorespaces Work Package 42:Kiểm thử, khắc phục tương thích của giao diện\relax }}{38}% 
+\contentsline {table}{\numberline {3.43}{\ignorespaces Work Package 43:Kiểm thử, khắc phục chức năng xem phim\relax }}{39}% 
+\contentsline {table}{\numberline {3.44}{\ignorespaces Work Package 44:Kiểm thử, khắc phục chức năng đăng nhập\relax }}{39}% 
+\contentsline {table}{\numberline {3.45}{\ignorespaces Work Package 45:Kiểm thử, khắc phục chức năng bình luận\relax }}{40}% 
+\contentsline {table}{\numberline {3.46}{\ignorespaces Work Package 46:Kiểm thử, khắc phục chức năng tìm kiếm\relax }}{40}% 
+\contentsline {table}{\numberline {3.47}{\ignorespaces Work Package 47:Kiểm thử, khắc phục chức năng theo dõi thói quen của người dùng\relax }}{40}% 
+\contentsline {table}{\numberline {3.48}{\ignorespaces Work Package 48:Kiểm thử, khắc phục giao diện trang quản trị phim\relax }}{41}% 
+\contentsline {table}{\numberline {3.49}{\ignorespaces Work Package 49:Kiểm thử, khắc phục giao diện trang quản trị quản lý\relax }}{41}% 
+\contentsline {table}{\numberline {3.50}{\ignorespaces Work Package 50:Kiểm thử, khắc phục tương thích của giao diện\relax }}{42}% 
+\contentsline {table}{\numberline {3.51}{\ignorespaces Work Package 51:Kiểm thử, khắc phục chức năng quản trị phim\relax }}{42}% 
+\contentsline {table}{\numberline {3.52}{\ignorespaces Work Package 52:Kiểm thử, khắc phục chức năng quản trị quản lý\relax }}{43}% 
+\contentsline {table}{\numberline {3.53}{\ignorespaces Work Package 53:Kiểm thử và khắc phục cơ sở dữ liệu\relax }}{43}% 
+\contentsline {table}{\numberline {3.54}{\ignorespaces Work Package 54:Kiểm thử và khắc phục phân quyền\relax }}{43}% 
+\contentsline {table}{\numberline {3.55}{\ignorespaces Work Package 55:Kiểm thử và khắc phục chức năng sao lưu và phục hồi\relax }}{44}% 
+\contentsline {table}{\numberline {3.56}{\ignorespaces Work Package 56:Cấu hình môi trường triển khai\relax }}{44}% 
+\contentsline {table}{\numberline {3.57}{\ignorespaces Work Package 57:Triển khai website trên môi trường doanh nghiệp\relax }}{45}% 
+\contentsline {table}{\numberline {3.58}{\ignorespaces Work Package 58:Kiểm tra, khắc phục lỗi website trên môi trường doanh nghiệp\relax }}{45}% 
+\contentsline {table}{\numberline {3.59}{\ignorespaces Work Package 59:Lấy yêu cầu khách hàng\relax }}{46}% 
+\contentsline {table}{\numberline {3.60}{\ignorespaces Work Package 60:Chọn cấu hình hosting\relax }}{46}% 
+\contentsline {table}{\numberline {3.61}{\ignorespaces Work Package 61:Cấu hình môi trường hosting\relax }}{46}% 
+\contentsline {table}{\numberline {3.62}{\ignorespaces Work Package 62:Kiểm thử và khắc phục cấu hình hosting\relax }}{47}% 
+\contentsline {table}{\numberline {3.63}{\ignorespaces Work Package 63:Bàn giao\relax }}{47}% 
 \addvspace {10\p@ }
